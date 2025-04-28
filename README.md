@@ -1,3 +1,5 @@
+## note: this is just the landing page of the Ultimate Gadget Guide.
+
 ## Ultimate Gadget Guide
 
 - Your Ultimate Tech Decision Partner
