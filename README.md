@@ -1,4 +1,4 @@
-## Ultimate Gadget Guide (this is just the landing page repo of the Ultimate Gadget Guide):
+## Ultimate Gadget Guide (This is the landing page repo):
 
 - a single source which summarizes all gadget reviews, opinions, Updates, comparisons, etc. and fit it to understanding for any naive customer
 - Your Ultimate Tech Decision Partner
